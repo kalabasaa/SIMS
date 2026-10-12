@@ -1,0 +1,25 @@
+.page-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+.page-head h1 { font-size: 1.4rem; color: var(--maroon); }
+
+.table { width: 100%; border-collapse: collapse; font-size: .92rem; }
+.table th, .table td { text-align: left; padding: .65rem .5rem; border-bottom: 1px solid var(--border); }
+.table th { color: var(--maroon); font-size: .8rem; text-transform: uppercase; letter-spacing: .5px; }
+.table .right { text-align: right; }
+.table .empty { text-align: center; color: #888; padding: 1.5rem; }
+
+.actions { display: flex; gap: .5rem; align-items: center; }
+.table .actions { justify-content: flex-end; }
+.actions form { margin: 0; }
+
+.form-card { max-width: 480px; }
+.field { margin-bottom: 1rem; }
+.field label { display: block; font-size: .85rem; margin-bottom: .25rem; }
+.field input {
+    width: 100%;
+    padding: .55rem .65rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    font-size: .95rem;
+}
+.field input:focus { outline: 2px solid var(--maroon); outline-offset: -1px; }
+.error { color: #b00020; display: block; margin-top: .25rem; }
