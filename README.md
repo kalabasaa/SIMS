@@ -1,5 +1,3 @@
-<div align="center">
-
 # SIMS
 
 ### Student Information Management System
@@ -8,7 +6,7 @@ A Laravel-based student management system focused on CRUD operations, data valid
 
 **A Laboratory Examination Requirement for Systems Integration and Architecture (SIA1)**
 
-<br>
+<div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -41,7 +39,7 @@ This project demonstrates database integration, form validation, and basic web a
 
 ---
 
-## Screenshot
+## Screenshots
 
 ### Student List
 
@@ -63,10 +61,9 @@ This project demonstrates database integration, form validation, and basic web a
 
 ## Video Demonstration
 
-Watch the video demonstration of SIMS to see its student management features and Google reCAPTCHA integration.
+Watch the video demonstration of SIMS to see its student management features, CRUD operations, and Google reCAPTCHA integration.
 
-[Watch the Video Demonstration](PASTE_YOUR_VIDEO_LINK_HERE)
-
+[**Watch the Video Demonstration on Google Drive**](https://drive.google.com/drive/folders/1wJYrlWybrqQDL647-JbCKd-fUggDhtJ5?usp=drive_link)
 
 ---
 
@@ -77,5 +74,4 @@ Watch the video demonstration of SIMS to see its student management features and
 BSIT Student  
 University of Eastern Pangasinan
 
-Built for **Web Systems and Technologies / Laravel Framework**.
-
+Built for **Systems Integration and Architecture (SIA1)**.
