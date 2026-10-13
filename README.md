@@ -1,12 +1,12 @@
+ <div align="center">
+
 # SIMS
 
 ### Student Information Management System
 
 A Laravel-based student management system focused on CRUD operations, data validation, MySQL database integration, and Google reCAPTCHA.
 
-**A Laboratory Examination Requirement for Systems Integration and Architecture (SIA1)**
-
-<div align="center">
+**A Laboratory Examination Submission for Systems Integration and Architecture 1 (SIA1)**
 
 ![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -19,11 +19,11 @@ A Laravel-based student management system focused on CRUD operations, data valid
 
 ## About
 
-**SIMS (Student Information Management System)** is a Laravel-based academic project developed to demonstrate CRUD (Create, Read, Update, Delete) operations in a web application.
+**SIMS (Student Information Management System)** is a Laravel-based academic project developed as a laboratory examination submission for **Systems Integration and Architecture 1 (SIA1)** at the University of Eastern Pangasinan.
 
-The system allows users to manage student information, including student numbers, full names, courses, and email addresses. It also integrates Google reCAPTCHA into the Create Student form to help prevent automated submissions.
+The system demonstrates CRUD (Create, Read, Update, Delete) operations in a web application. It allows users to manage student information, including student numbers, full names, courses, and email addresses.
 
-This project demonstrates database integration, form validation, and basic web application security using Laravel and MySQL.
+Google reCAPTCHA is integrated into the Create Student form to help prevent automated submissions. The project also demonstrates database integration, form validation, and basic web application security using Laravel and MySQL.
 
 ---
 
@@ -53,6 +53,10 @@ This project demonstrates database integration, form validation, and basic web a
 
 ![Edit Student](screenshot/edit-student.png)
 
+### Delete Student
+
+![Delete Student](screenshot/delete-student.png)
+
 ### Google reCAPTCHA
 
 ![Google reCAPTCHA](screenshot/recaptcha.png)
@@ -61,11 +65,15 @@ This project demonstrates database integration, form validation, and basic web a
 
 ## Video Demonstration
 
-Watch the video demonstration of SIMS to see its student management features, CRUD operations, and Google reCAPTCHA integration.
+Watch the video demonstration to see the student management features, CRUD operations, and Google reCAPTCHA integration.
 
-[**Watch the Video Demonstration on Google Drive**](https://drive.google.com/drive/folders/1wJYrlWybrqQDL647-JbCKd-fUggDhtJ5?usp=drive_link)
+Click the link below to watch the SIMS demonstration on Google Drive.
+
+[**Watch the SIMS Video Demonstration on Google Drive**](https://drive.google.com/drive/folders/1wJYrlWybrqQDL647-JbCKd-fUggDhtJ5?usp=drive_link)
+
 
 ---
+
 
 ## Developer
 
@@ -74,4 +82,6 @@ Watch the video demonstration of SIMS to see its student management features, CR
 BSIT Student  
 University of Eastern Pangasinan
 
-Built for **Systems Integration and Architecture (SIA1)**.
+**Submitted for:** Systems Integration and Architecture 1 (SIA1)  
+**Requirement:** Laboratory Examination
+
