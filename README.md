@@ -45,7 +45,7 @@ This project demonstrates database integration, form validation, and basic web a
 
 ### Student List
 
-![Student List](screenshot/student-list.png)
+![Student List](screenshot/list-student.png)
 
 ### Add Student
 
